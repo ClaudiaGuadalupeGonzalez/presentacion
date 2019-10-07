@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatosPersonales</string>
+    <string name="GUZMAN">TESOEM</string>
+    <string name="DATOS">TICS</string>
+    <string name="nombre">CLAUDIA GUADALUPE GONZALEZ GUZMAN </string>
+    <string name="matricula">20151141</string>
+    <string name="docente">PROF.VICTOR HUGO MARTINEZ DE LA O</string>
+</resources>
